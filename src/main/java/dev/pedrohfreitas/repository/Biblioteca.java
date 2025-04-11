@@ -1,8 +1,8 @@
-package org.library.repository;
+package dev.pedrohfreitas.repository;
 
-import org.library.exceptions.BibliotecaCheiaException;
-import org.library.exceptions.LivroNaoEncontradoException;
-import org.library.model.Livro;
+import dev.pedrohfreitas.exceptions.BibliotecaCheiaException;
+import dev.pedrohfreitas.exceptions.LivroNaoEncontradoException;
+import dev.pedrohfreitas.model.Livro;
 
 import java.util.ArrayList;
 import java.util.HashMap;

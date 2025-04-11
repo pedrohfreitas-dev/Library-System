@@ -1,9 +1,9 @@
-package org.library;
+package dev.pedrohfreitas;
 
 
-import org.library.exceptions.LivroNaoEncontradoException;
-import org.library.model.Livro;
-import org.library.repository.Biblioteca;
+import dev.pedrohfreitas.exceptions.LivroNaoEncontradoException;
+import dev.pedrohfreitas.model.Livro;
+import dev.pedrohfreitas.repository.Biblioteca;
 
 import java.util.Scanner;
 
